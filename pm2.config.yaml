@@ -1,0 +1,7 @@
+apps:
+  - script: "build/main.js"
+    name: "production"
+    exec_mode: "cluster"
+    instances: "max"
+    env:
+      "NODE_ENV": "production"
