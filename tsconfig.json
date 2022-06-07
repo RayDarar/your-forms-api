@@ -8,7 +8,7 @@
     "sourceMap": true,
     "incremental": true,
     "removeComments": true,
-    "outDir": "./build",
+    "outDir": "./dist",
     "target": "ES2017",
     "lib": ["ES2015", "ScriptHost"],
     "esModuleInterop": true,

@@ -2,17 +2,3 @@ app:
   isProduction: false
   prefix: "/api"
   port: 3000
-sms:
-  expireTime: 99999
-redis:
-  port: 6379
-  host: "localhost"
-  password: "super_secret"
-mongodb:
-  uri: "mongodb://206.189.127.157:27017"
-  username: "deliService"
-  password: "super_secret"
-  db: "deli"
-auth:
-  tokenSecretKey: "super_secret"
-  registrationTokenKey: "super_secret"

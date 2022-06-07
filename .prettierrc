@@ -2,7 +2,7 @@
   "singleQuote": false,
   "trailingComma": "all",
   "arrowParens": "always",
-  "endOfLine": "lf",
+  "endOfLine": "auto",
   "semi": true,
   "tabWidth": 2,
   "printWidth": 80
